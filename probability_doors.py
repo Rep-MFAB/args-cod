@@ -1,4 +1,18 @@
+#!/usr/bin/env python
+
 from random import randint
+
+#
+# You have 3 doors, one of them with a prize
+# you choose one of then but then someone says 
+# the door (that you didn't choose") that doesn't
+# have the prize. And asks if you want to rechoose.
+#
+# Q: What is the chance of getting the prize if you
+# rechoose?
+#
+# A: 2/3
+#
 
 def main():
     correct = 0
